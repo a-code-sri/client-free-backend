@@ -1,0 +1,17 @@
+ddgs
+certifi
+motor
+apscheduler
+pydantic[email]
+langchain==0.3.26
+langchain-text-splitters==0.3.8
+langchain-core==0.3.68
+langchain-huggingface==0.1.2
+uvicorn
+fastapi
+dotenv
+langchain_community==0.3.27
+langchain_google_genai==2.0.10
+groq==0.18.0
+langchain-groq==0.2.0
+duckduckgo-search
