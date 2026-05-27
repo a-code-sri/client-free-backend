@@ -1,0 +1,111 @@
+[
+  {
+    "proposal_id": "prop_1a2b3c4d",
+    "project_id": "proj_a1b2c3d4",
+    "freelancer_id": "c8a4b632-9c1f-4d9a-8e2b-7f1a3d5e8c90",
+    "bid_amount": 2800.00,
+    "estimated_days": 21,
+    "cover_letter": "I have spent the last 4 years acting as a Database Administrator redesigning legacy schemas. I understand your exact issue: BCNF violations inherently cause update anomalies. My approach guarantees dependency preservation while normalizing your tables to 3NF/BCNF. I will write the safe migration scripts for the new PostgreSQL instance to ensure zero data loss during the transition.",
+    "proposed_milestones": [
+      {
+        "milestone_id": "mile_101",
+        "title": "Schema Audit & Normalization Mapping",
+        "amount": 800.00,
+        "due_date": "2026-06-01T00:00:00Z"
+      },
+      {
+        "milestone_id": "mile_102",
+        "title": "PostgreSQL Instance Setup & Data Migration",
+        "amount": 2000.00,
+        "due_date": "2026-06-15T00:00:00Z"
+      }
+    ],
+    "attachments": [
+      "https://github.com/db-expert/postgres-migration-scripts"
+    ],
+    "status": "Pending",
+    "created_at": "2026-05-21T09:15:00Z"
+  },
+  {
+    "proposal_id": "prop_5e6f7g8h",
+    "project_id": "proj_a1b2c3d4",
+    "freelancer_id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+    "bid_amount": 500.00,
+    "estimated_days": 5,
+    "cover_letter": "Hi dear client, I am very good at database and sql. I can do your postgresql migration quickly. I have done many websites and databases. Please hire me I will start today.",
+    "proposed_milestones": [],
+    "attachments": [],
+    "status": "Pending",
+    "created_at": "2026-05-21T10:05:22Z"
+  },
+  {
+    "proposal_id": "prop_9i0j1k2l",
+    "project_id": "proj_a1b2c3d4",
+    "freelancer_id": "9a8b7c6d-5e4f-3a2b-1c0d-9e8f7a6b5c4d",
+    "bid_amount": 3800.00,
+    "estimated_days": 30,
+    "cover_letter": "Migrating to PostgreSQL is only half the battle. To truly fix your architecture, you also need a Redis caching layer and a C++ microservice to handle the transaction loads. I have quoted to rebuild your backend entirely. This exceeds your initial budget, but it is the correct engineering approach for long-term scalability.",
+    "proposed_milestones": [
+      {
+        "milestone_id": "mile_301",
+        "title": "Architecture Review & Redis Setup",
+        "amount": 1200.00,
+        "due_date": "2026-06-10T00:00:00Z"
+      },
+      {
+        "milestone_id": "mile_302",
+        "title": "Schema Normalization",
+        "amount": 1000.00,
+        "due_date": "2026-06-20T00:00:00Z"
+      },
+      {
+        "milestone_id": "mile_303",
+        "title": "C++ Microservice Integration",
+        "amount": 1600.00,
+        "due_date": "2026-06-30T00:00:00Z"
+      }
+    ],
+    "attachments": [],
+    "status": "Pending",
+    "created_at": "2026-05-21T11:45:10Z"
+  },
+  {
+    "proposal_id": "prop_3m4n5o6p",
+    "project_id": "proj_e5f6g7h8",
+    "freelancer_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "bid_amount": 75.00,
+    "estimated_days": 14,
+    "cover_letter": "I specialize in Agentic AI and RAG architectures. I have built highly scalable dual-encoder retrieval setups using LangChain, HuggingFace embeddings, and FAISS. For your unstructured PDFs, I will implement semantic chunking with overlap to preserve context boundaries before passing the context windows to the LLM. I am ready to start testing prototypes this week.",
+    "proposed_milestones": [
+      {
+        "milestone_id": "mile_401",
+        "title": "Phase 1: PDF Ingestion & Semantic Chunking Logic (Estimated 15 hrs)",
+        "amount": 1125.00,
+        "due_date": "2026-05-28T00:00:00Z"
+      },
+      {
+        "milestone_id": "mile_402",
+        "title": "Phase 2: Dual-Encoder FAISS Integration & FastAPI Endpoints (Estimated 25 hrs)",
+        "amount": 1875.00,
+        "due_date": "2026-06-05T00:00:00Z"
+      }
+    ],
+    "attachments": [
+      "https://github.com/developer/enterprise-rag-pipeline"
+    ],
+    "status": "Pending",
+    "created_at": "2026-05-22T08:20:00Z"
+  },
+  {
+    "proposal_id": "prop_7q8r9s0t",
+    "project_id": "proj_e5f6g7h8",
+    "freelancer_id": "5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
+    "bid_amount": 40.00,
+    "estimated_days": 28,
+    "cover_letter": "I have extensive experience in Python and Natural Language Processing. While I haven't explicitly built a dual-encoder RAG from scratch, I have built several sentiment analysis APIs using FastAPI and Transformers. I am a very fast learner and my hourly rate is at the lowest end of your budget to reflect the learning curve I will undertake to build this pipeline for you.",
+    "proposed_milestones": [],
+    "attachments": [],
+    "status": "Pending",
+    "created_at": "2026-05-22T14:10:33Z"
+  }
+]

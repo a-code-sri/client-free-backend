@@ -1,0 +1,43 @@
+[
+  {
+    "project_id": "proj_a1b2c3d4",
+    "client_id": "client_98765",
+    "title": "Database Normalization and PostgreSQL Migration",
+    "description": "We need a database architect to redesign our legacy inventory schema. The current structure has multiple BCNF violations causing update anomalies. You will be responsible for normalizing the tables to 3NF/BCNF while ensuring dependency preservation, and migrating the existing data to a new PostgreSQL instance.",
+    "required_skills": [
+      "PostgreSQL",
+      "Database Normalization",
+      "Data Migration",
+      "SQL"
+    ],
+    "budget_range": {
+      "min": 1500,
+      "max": 3000
+    },
+    "deadline": "2026-06-30T23:59:59Z",
+    "project_type": "Fixed",
+    "status": "Open",
+    "created_at": "2026-05-20T15:17:31Z"
+  },
+  {
+    "project_id": "proj_e5f6g7h8",
+    "client_id": "client_54321",
+    "title": "Agentic AI Developer for Retrieval-Augmented Generation Pipeline",
+    "description": "Looking for an AI engineer to help build an advanced RAG pipeline. The system needs to ingest unstructured PDFs, chunk them semantically, and use a dual-encoder retrieval setup with an LLM for answering complex queries. We are paying hourly as the scope will adapt based on initial testing.",
+    "required_skills": [
+      "Python",
+      "Agentic AI",
+      "Vector Databases",
+      "Prompt Engineering",
+      "FastAPI"
+    ],
+    "budget_range": {
+      "min": 40,
+      "max": 80
+    },
+    "deadline": "2026-08-15T00:00:00Z",
+    "project_type": "Hourly",
+    "status": "Open",
+    "created_at": "2026-05-20T15:18:00Z"
+  }
+]

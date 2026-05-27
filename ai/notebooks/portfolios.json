@@ -1,0 +1,450 @@
+[
+  {
+    "user_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "bio": "Specialist in Large Language Model architecture and Agentic AI workflows. Experienced in fine-tuning models and building robust RAG pipelines.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "LLM Architecture",
+      "RAG",
+      "Agentic AI",
+      "LoRA"
+    ],
+    "hourly_rate": 85.00,
+    "availability_status": "Available (10-20 hrs/week)",
+    "education": [
+      {
+        "institution": "National Institute of Technology Warangal",
+        "degree": "B.Tech in Computer Science",
+        "start_year": 2023,
+        "end_year": 2027
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "AI Innovators Ltd",
+        "role": "Machine Learning Intern",
+        "start_date": "2025-05-01",
+        "end_date": "2025-07-31",
+        "description": "Implemented Direct Preference Optimization (DPO) on open-source models to improve response accuracy by 14%."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Modular Storyboard Generation System",
+        "description": "An AI-driven pipeline converting natural language scripts into 2D animations using structured semantic plans and strict JSON schema generation.",
+        "tech_stack": [
+          "Python",
+          "OpenAI API",
+          "FastAPI"
+        ],
+        "link": "https://github.com/developer/storyboard-gen",
+        "images": [
+          "https://res.cloudinary.com/demo/image/upload/storyboard1.png"
+        ]
+      },
+      {
+        "title": "Enterprise RAG Pipeline",
+        "description": "Built a scalable retrieval-augmented generation system using dual-encoder retrieval and cross-encoder reranking.",
+        "tech_stack": [
+          "Python",
+          "LangChain",
+          "Pinecone"
+        ],
+        "link": null,
+        "images": []
+      }
+    ]
+  },
+  {
+    "user_id": "c8a4b632-9c1f-4d9a-8e2b-7f1a3d5e8c90",
+    "bio": "Senior Backend Architect with deep expertise in Relational Database Management Systems, query optimization, and complex state management.",
+    "skills": [
+      "Oracle SQL",
+      "PostgreSQL",
+      "Python",
+      "C++",
+      "Database Normalization"
+    ],
+    "hourly_rate": 65.00,
+    "availability_status": "Available (30+ hrs/week)",
+    "education": [
+      {
+        "institution": "Tech University",
+        "degree": "M.S. in Software Engineering",
+        "start_year": 2020,
+        "end_year": 2022
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "DataFlow Systems",
+        "role": "Database Administrator",
+        "start_date": "2022-08-01",
+        "end_date": "2026-04-30",
+        "description": "Redesigned legacy schemas to preserve dependencies and eliminate BCNF violations, reducing query latency by 40%."
+      }
+    ],
+    "projects": [
+      {
+        "title": "High-Frequency Trading Database",
+        "description": "Engineered an Oracle SQL backend for a financial application, implementing rigorous transaction isolation levels to prevent phantom reads.",
+        "tech_stack": [
+          "Oracle SQL",
+          "C++",
+          "Redis"
+        ],
+        "link": null,
+        "images": []
+      }
+    ]
+  },
+  {
+    "user_id": "1d2e3f4a-5b6c-7d8e-9f0a-1b2c3d4e5f6a",
+    "bio": "Frontend perfectionist focused on high-performance React applications, Next.js server-side rendering, and flawless UI implementations.",
+    "skills": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
+    "hourly_rate": 50.00,
+    "availability_status": "Unavailable",
+    "education": [
+      {
+        "institution": "Design Institute",
+        "degree": "B.A. in Interaction Design",
+        "start_year": 2018,
+        "end_year": 2022
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "Creative Agency",
+        "role": "Frontend Developer",
+        "start_date": "2022-06-01",
+        "end_date": "2026-01-15",
+        "description": "Led frontend development for 12+ enterprise client websites."
+      }
+    ],
+    "projects": [
+      {
+        "title": "E-Commerce Dashboard UI",
+        "description": "A complex React dashboard handling real-time data streams with Zustand state management and optimized re-renders.",
+        "tech_stack": [
+          "React",
+          "Zustand",
+          "Framer Motion"
+        ],
+        "link": "https://dashboard-demo.com",
+        "images": [
+          "https://res.cloudinary.com/demo/image/upload/dash1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "9a8b7c6d-5e4f-3a2b-1c0d-9e8f7a6b5c4d",
+    "bio": "Systems-level programmer with a strong foundation in Operating Systems, memory management, and high-performance C++ applications.",
+    "skills": [
+      "C++",
+      "C",
+      "Linux Kernel",
+      "Multithreading",
+      "System Architecture"
+    ],
+    "hourly_rate": 75.00,
+    "availability_status": "Available (10-20 hrs/week)",
+    "education": [
+      {
+        "institution": "State Engineering College",
+        "degree": "B.S. in Computer Engineering",
+        "start_year": 2019,
+        "end_year": 2023
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "Hardware Tech Inc",
+        "role": "Embedded Software Engineer",
+        "start_date": "2023-09-01",
+        "end_date": "2026-05-01",
+        "description": "Developed low-latency drivers and managed CPU scheduling heuristics for IoT devices."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Custom Memory Allocator",
+        "description": "Wrote a custom C++ memory allocator bypassing standard malloc, mitigating page replacement overhead and reducing fragmentation.",
+        "tech_stack": [
+          "C++",
+          "Assembly"
+        ],
+        "link": "https://github.com/sysdev/allocator",
+        "images": []
+      }
+    ]
+  },
+  {
+    "user_id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+    "bio": "Full-Stack developer bridging the gap between elegant UI and robust API design. Highly ranked in competitive programming circles.",
+    "skills": [
+      "Node.js",
+      "Express",
+      "React",
+      "MongoDB",
+      "Algorithms"
+    ],
+    "hourly_rate": 55.00,
+    "availability_status": "Available (20+ hrs/week)",
+    "education": [
+      {
+        "institution": "Global University",
+        "degree": "B.Sc in Computer Science",
+        "start_year": 2021,
+        "end_year": 2025
+      }
+    ],
+    "work_experience": [],
+    "projects": [
+      {
+        "title": "Algorithmic Trading Bot",
+        "description": "Built a highly concurrent trading bot capable of processing thousands of market signals. Leveraged competitive programming strategies for ultra-fast execution.",
+        "tech_stack": [
+          "Node.js",
+          "WebSockets",
+          "Redis"
+        ],
+        "link": "https://github.com/coder/algo-trade",
+        "images": []
+      },
+      {
+        "title": "Freelance Marketplace MVP",
+        "description": "Developed the initial core architecture for a multi-sided marketplace including secure authentication and role-based access.",
+        "tech_stack": [
+          "Express",
+          "React",
+          "JWT"
+        ],
+        "link": null,
+        "images": []
+      }
+    ]
+  },
+  {
+    "user_id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+    "bio": "DevOps and Cloud Infrastructure Engineer. Expert in CI/CD, containerization, and maintaining high-availability web services.",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Terraform",
+      "Python"
+    ],
+    "hourly_rate": 90.00,
+    "availability_status": "Available (10-20 hrs/week)",
+    "education": [
+      {
+        "institution": "Cloud Tech Institute",
+        "degree": "B.S. in Information Systems",
+        "start_year": 2017,
+        "end_year": 2021
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "ScaleUp Startup",
+        "role": "Lead DevOps Engineer",
+        "start_date": "2021-06-01",
+        "end_date": "2025-12-31",
+        "description": "Migrated monolithic infrastructure to Kubernetes, reducing downtime by 99%."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Automated Deployment Pipeline",
+        "description": "Architected a zero-downtime deployment pipeline using GitHub Actions, Docker, and AWS ECS.",
+        "tech_stack": [
+          "AWS",
+          "Docker",
+          "Bash"
+        ],
+        "link": "https://infrastructure-portfolio.com/pipeline",
+        "images": []
+      }
+    ]
+  },
+  {
+    "user_id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+    "bio": "Product Designer specializing in conversion-optimized UX and scalable design systems for SaaS platforms.",
+    "skills": [
+      "Figma",
+      "UI/UX Design",
+      "Prototyping",
+      "User Research"
+    ],
+    "hourly_rate": 60.00,
+    "availability_status": "Available (30+ hrs/week)",
+    "education": [
+      {
+        "institution": "Arts & Design College",
+        "degree": "B.F.A in Graphic Design",
+        "start_year": 2016,
+        "end_year": 2020
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "SaaS Solutions",
+        "role": "Senior Product Designer",
+        "start_date": "2020-09-01",
+        "end_date": "2026-03-01",
+        "description": "Redesigned the core user dashboard, increasing daily active user retention by 22%."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Fintech App Design System",
+        "description": "Created a comprehensive, component-based design system in Figma for a modern banking application.",
+        "tech_stack": [
+          "Figma",
+          "Adobe Illustrator"
+        ],
+        "link": "https://behance.net/portfolio/fintech",
+        "images": [
+          "https://res.cloudinary.com/demo/image/upload/design1.png"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
+    "bio": "Data Scientist and NLP Researcher. Passionate about extracting structured insights from unstructured data streams.",
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "Natural Language Processing",
+      "Pandas",
+      "SQL"
+    ],
+    "hourly_rate": 80.00,
+    "availability_status": "Unavailable",
+    "education": [
+      {
+        "institution": "Research University",
+        "degree": "Ph.D. in Data Science",
+        "start_year": 2018,
+        "end_year": 2023
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "Data Insights LLC",
+        "role": "Data Scientist",
+        "start_date": "2023-08-01",
+        "end_date": "2026-05-15",
+        "description": "Developed sentiment analysis pipelines for real-time social media monitoring."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Customer Review Summarizer",
+        "description": "Built an NLP pipeline that ingests thousands of product reviews and generates distinct, feature-specific sentiment scores.",
+        "tech_stack": [
+          "Python",
+          "Hugging Face",
+          "FastAPI"
+        ],
+        "link": "https://github.com/datascientist/summarizer",
+        "images": []
+      }
+    ]
+  },
+  {
+    "user_id": "6f7a8b9c-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
+    "bio": "Mobile App Developer creating seamless native experiences. Fluent in both iOS and cross-platform ecosystems.",
+    "skills": [
+      "React Native",
+      "Swift",
+      "iOS Development",
+      "Firebase"
+    ],
+    "hourly_rate": 55.00,
+    "availability_status": "Available (20+ hrs/week)",
+    "education": [
+      {
+        "institution": "Tech Institute",
+        "degree": "B.Sc in Software Development",
+        "start_year": 2020,
+        "end_year": 2024
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "App Studio",
+        "role": "Mobile Developer",
+        "start_date": "2024-06-01",
+        "end_date": "2026-02-28",
+        "description": "Published 4 top-ranking utility applications on the iOS App Store."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Fitness Tracker App",
+        "description": "Developed a comprehensive workout tracking mobile app with offline-first capabilities and cloud sync.",
+        "tech_stack": [
+          "React Native",
+          "Redux",
+          "Firebase"
+        ],
+        "link": "https://apps.apple.com/app/fitness-tracker",
+        "images": [
+          "https://res.cloudinary.com/demo/image/upload/app1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+    "bio": "Cybersecurity Consultant and Penetration Tester. Focused on securing web applications and cloud infrastructure.",
+    "skills": [
+      "Python",
+      "Bash",
+      "Penetration Testing",
+      "Network Security",
+      "OWASP"
+    ],
+    "hourly_rate": 100.00,
+    "availability_status": "Available (10-20 hrs/week)",
+    "education": [
+      {
+        "institution": "Security Academy",
+        "degree": "B.S. in Cybersecurity",
+        "start_year": 2015,
+        "end_year": 2019
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "SecureNet Guard",
+        "role": "Security Analyst",
+        "start_date": "2019-07-01",
+        "end_date": "2025-10-30",
+        "description": "Conducted vulnerability assessments and simulated cyberattacks to harden client networks."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Automated Vulnerability Scanner",
+        "description": "Created a lightweight Python script that automatically audits Heroku deployments for misconfigured environment variables and open ports.",
+        "tech_stack": [
+          "Python",
+          "Requests",
+          "Nmap"
+        ],
+        "link": "https://github.com/sec-expert/vuln-scanner",
+        "images": []
+      }
+    ]
+  }
+]
